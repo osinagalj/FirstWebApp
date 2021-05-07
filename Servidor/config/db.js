@@ -10,11 +10,11 @@ const conectarDB = async () => {
             useUnifiedTopology: true,
             useFindAndModify: false
         })
-        console.log('BD Conectada');
+        console.log('DB Conected');
         
     } catch (error) {
         console.log(error);
-        process.exit(1); // Detenemos la app
+        process.exit(1); 
     }
 
 }
