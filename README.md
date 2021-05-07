@@ -4,22 +4,16 @@ Stack MEAN
 ## 1. Download the proyect
 
 ## 2. Install node.js
-	sudo apt install nodejs
-	sudo apt install npm
 	
-	sudo curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-	sudo apt install -y nodejs
-	sudo apt install -y build-essential
+	2.1 sudo curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+	2.2 sudo apt install -y nodejs
+	2.3 sudo apt install -y build-essential
 	
-	sudo npm install -g @angular/cli
+	2.4 sudo npm install -g @angular/cli
 	
-	2.1 - npm install express mongose dotenv
-	2.2 - npm install -D nodemon
-	2.3 - npm init
-	2.4 - npm install cors
-
-
-
+	2.5 sudo apt install npm
+	
+	
 ## 2. Execute Backend
 	npm run dev
 
@@ -40,3 +34,9 @@ Stack MEAN
 	Then save and exit!
 	- sudo sysctl -p
 	
+
+# proyect dependencys
+	 - npm install express mongose dotenv
+	 - npm install -D nodemon
+	 - npm init
+	 - npm install cors

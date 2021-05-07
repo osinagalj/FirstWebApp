@@ -25,3 +25,10 @@ Crear servicios
 
 # Icons
 - https://fontawesome.com/
+
+# Forms
+- https://angular.io/guide/reactive-forms
+- https://getbootstrap.com/docs/5.0/forms/overview/
+
+# Tables
+- https://getbootstrap.com/docs/5.0/content/tables/
