@@ -1,9 +1,8 @@
 //localhost angular
 http://localhost:4200/
 
-crear componente
+//crear componente
 ng g c components/lista-productos 
-
 ng g s services/producto
 
 correr proyecto angular
@@ -18,3 +17,6 @@ npm install express mongose dotenv
 npm install -D nodemon
 
 npm init
+
+//para acregar boostrap al proeycto
+npm install boostrap@next
